@@ -7,7 +7,7 @@ Execute aws service specs. aws-exec allows for writing high level aws modules th
 
 ## Installation
 
-    $ npm install aws-exec
+    $ npm install @themang/aws-exec
 
 ## Example
 

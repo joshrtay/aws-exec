@@ -1,5 +1,5 @@
 {
-  "name": "aws-exec",
+  "name": "@themang/aws-exec",
   "description": "Execute aws service specs.",
   "repository": "git://github.com/weo-edu/aws-exec.git",
   "version": "0.1.0",
