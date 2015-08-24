@@ -1,0 +1,22 @@
+{
+  "name": "aws-exec",
+  "description": "Execute aws service specs.",
+  "repository": "git://github.com/weo-edu/aws-exec.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@weo-edu/is": "^0.1.0",
+    "aws-sdk": "^2.1.46",
+    "bluebird": "^2.9.34",
+    "sliced": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "2.x",
+    "standard": "^4.0.0"
+  },
+  "engines": {
+    "node": "~0.10.38",
+    "npm": "~2.9.0"
+  }
+}
