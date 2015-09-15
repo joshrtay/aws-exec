@@ -6,6 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
+    "@themang/aws": "^0.1.0",
     "@weo-edu/is": "^0.1.0",
     "aws-sdk": "^2.1.46",
     "bluebird": "^2.9.34",
