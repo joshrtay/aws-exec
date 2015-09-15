@@ -2,7 +2,7 @@
   "name": "@themang/aws-exec",
   "description": "Execute aws service specs.",
   "repository": "git://github.com/weo-edu/aws-exec.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
